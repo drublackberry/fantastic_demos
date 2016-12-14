@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 14 13:03:05 2015
 
-Example script to illustrate 
+Example script to illustrate a standard Markovitz Bullet with confidence levels
 
 @author: Andreu Mora
 """
